@@ -41,7 +41,7 @@ class CBRF extends Component
     /**
      * @var string
      */
-    private $url            = "http://www.cbr.ru/scripts/XML_daily.asp";
+    private $url            = "https://www.cbr.ru/scripts/XML_daily.asp";
 
     /**
      * @var string
